@@ -12,3 +12,4 @@ class Employee < Salary
 	# 	@time = time
 	end
 end  
+abcabcbac
